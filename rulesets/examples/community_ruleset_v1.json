@@ -1,0 +1,6 @@
+{
+  "id": "community_v1",
+  "type": "community_ruleset",
+  "version": "1.0.0",
+  "leader_election_enabled": true
+}

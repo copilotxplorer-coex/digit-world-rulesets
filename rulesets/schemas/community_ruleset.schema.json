@@ -1,0 +1,6 @@
+{
+  "type": "object",
+  "required": [
+    "leader_election_enabled"
+  ]
+}

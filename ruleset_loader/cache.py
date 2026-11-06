@@ -1,0 +1,2 @@
+class RulesetCache(dict):
+    pass

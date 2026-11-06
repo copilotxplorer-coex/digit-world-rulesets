@@ -1,0 +1,6 @@
+{
+  "type": "object",
+  "required": [
+    "transfer_fee_percent"
+  ]
+}
